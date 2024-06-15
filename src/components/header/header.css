@@ -1,0 +1,25 @@
+div 
+{ 
+    margin: 40px 0 ;
+}
+.wrapper
+{   
+
+    width: 70%;
+    display: flex ;
+    flex-direction: row ;
+    align-items:  center ;
+    justify-content:  space-between ;
+    margin: 0 auto ;
+}
+.wrapper img 
+{ 
+    width: 80px ;
+    height: 80px ;
+}
+header
+{ 
+    display: flex ;
+    flex-direction: column ;
+    align-items:  center ;
+}
